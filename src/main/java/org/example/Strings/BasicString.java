@@ -20,5 +20,6 @@ public class BasicString {
         for (int[] ints : arr) {
             System.out.println(Arrays.toString(ints));
         }
+        //used enhanced for loops
     }
 }
