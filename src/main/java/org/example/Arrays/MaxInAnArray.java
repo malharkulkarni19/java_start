@@ -1,4 +1,4 @@
-package org.example.Strings;
+package org.example.Arrays;
 
 public class MaxInAnArray {
     public static void main(String[] args) {
