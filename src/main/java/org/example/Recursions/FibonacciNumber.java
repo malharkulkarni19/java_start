@@ -1,0 +1,16 @@
+package org.example.Recursions;
+
+public class FibonacciNumber {
+    static int fibo(int n){
+        //base condition
+        if(n < 2){
+            return n;
+        }
+        //recursive function
+        return fibo(n-1) + fibo(n - 2);
+    }
+
+    public static void main(String[] args) {
+        System.out.println(fibo(6));
+    }
+}
