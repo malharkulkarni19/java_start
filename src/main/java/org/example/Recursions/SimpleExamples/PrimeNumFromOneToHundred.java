@@ -1,4 +1,4 @@
-package org.example.Recursions;
+package org.example.Recursions.SimpleExamples;
 
 public class PrimeNumFromOneToHundred {
     static boolean isPrime(int n, int divisor){

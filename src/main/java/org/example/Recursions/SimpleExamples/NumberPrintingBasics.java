@@ -1,4 +1,4 @@
-package org.example.Recursions;
+package org.example.Recursions.SimpleExamples;
 
 public class NumberPrintingBasics {
     static void print(int n){
